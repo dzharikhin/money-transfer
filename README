@@ -1,0 +1,5 @@
+You should have working gradle
+http://gradle.org/
+
+If gradle is available
+use 'gradle run' to start application
